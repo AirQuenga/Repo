@@ -11,3 +11,18 @@ Section: Tweaks
 Description: Color Your Control Center
 Author: AirQuenga <AirQuenga@gmail.com>
 Name: ColorCC
+
+
+Package: com.AirQuenga.cask
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: AirQuenga <AirQuenga@gmail.com>
+Filename: /cask.deb
+Size: 11048
+MD5sum: E6EA2AAE7512971FD3EBF6E254D56126
+SHA1: 5F3B0AD9C3DCE188BE3D4DC3B1BE81739547136F
+SHA256: 63E6B4E9644F598C788C10164A37E235A4C697988D33EF75A819BF56CE3FF3A4
+Section: Tweaks
+Description: Customize Scrolling
+Author: AirQuenga <AirQuenga@gmail.com>
+Name: Cask
